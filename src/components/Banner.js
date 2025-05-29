@@ -66,16 +66,15 @@ const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. It has survived not only five centuries,
-                    but also the leap into electronic typesetting, remaining
-                    essentially unchanged. It was popularised in the 1960s with
-                    the release of Letraset sheets containing Lorem Ipsum
-                    passages, and more recently with desktop publishing software
-                    like Aldus PageMaker including versions of Lorem Ipsum.
+                    👋 Welcome! Hi, I'm **Asadullayev Zeyd** — a passionate
+                    front-end developer focused on building clean, responsive,
+                    and user-friendly web interfaces. I specialize in modern web
+                    development using **HTML**, **CSS**, **JavaScript**, and
+                    **React**. I enjoy transforming ideas into functional,
+                    accessible digital experiences that not only look good but
+                    perform well across all devices. Take a look around to
+                    explore my projects, learn more about my skills, and see how
+                    I bring creativity and code together.
                   </p>
                   <HashLink to="#connect">
                     <button>
